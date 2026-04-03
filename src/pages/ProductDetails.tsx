@@ -47,7 +47,7 @@ Product Image: ${imageUrl}
 
 *እባክዎ ብር የከፈሉበትን ደረሰኝ ፎቶ በቴሌግራም መላክ አይርሱ እኔን ስለመረጡ አመሰግናለሁ። 
  Please remember to attach your payment screenshot in the Telegram chat.`;
-  const telegramLink = `https://t.me/abu_orthodox?text=${encodeURIComponent(message)}`;
+  const telegramLink = `https://t.me/Melee8?text=${encodeURIComponent(message)}`;
 
   return (
     <div className="w-full pt-10 pb-24 bg-white dark:bg-black transition-colors duration-300 min-h-screen">

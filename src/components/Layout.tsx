@@ -180,7 +180,7 @@ export default function Layout() {
                 <a href="#" className="w-10 h-10 rounded-full bg-gray-900 flex items-center justify-center hover:bg-gold-500 hover:text-white transition-all">
                   <Facebook className="w-5 h-5" />
                 </a>
-                <a href="https://t.me/abu_orthodox" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-gray-900 flex items-center justify-center hover:bg-gold-500 hover:text-white transition-all">
+                <a href="https://t.me/Melee8" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-gray-900 flex items-center justify-center hover:bg-gold-500 hover:text-white transition-all">
                   <Send className="w-5 h-5" />
                 </a>
                 <a href="#" className="w-10 h-10 rounded-full bg-gray-900 flex items-center justify-center hover:bg-gold-500 hover:text-white transition-all font-bold">

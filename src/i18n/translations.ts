@@ -1,0 +1,182 @@
+export const translations: Record<string, any> = {
+  en: {
+    nav: {
+      home: 'Home',
+      products: 'Products',
+      about: 'About',
+      contact: 'Contact'
+    },
+    home: {
+      subtitle: 'Discover True Products',
+      title: 'From My Shop',
+      desc: 'Experience the best beauty products for your daily needs.',
+      shopBtn: 'Shop Collection',
+      delivery: 'Delivery Support',
+      deliveryDesc: 'Fast and reliable delivery to your doorstep.',
+      response: 'Fast Response',
+      responseDesc: 'Order directly via Telegram for immediate assistance.',
+      quality: 'Quality Guarantee',
+      qualityDesc: '100% authentic products. We stand behind our quality.',
+      licenseTitle: 'Our Working License',
+      licenseDesc: 'We are a fully licensed and registered business. You can trust us for all your cosmetic needs.'
+    },
+    footer: {
+      desc: 'Quality cosmetics for your daily beauty routine.',
+      contact: 'Contact',
+      follow: 'Follow Us',
+      rights: 'All rights reserved.'
+    },
+    products: {
+      title: 'Our Collection',
+      desc: 'Discover our curated selection of cosmetics.',
+      all: 'All',
+      perfume: 'Perfume',
+      skin: 'Skin',
+      hair: 'Hair',
+      cloth: 'Cloth'
+    },
+    details: {
+      back: 'Back to Collection',
+      howToOrder: 'How to Order',
+      orderDesc: 'If you want to buy, send the money ({price} Birr) to one of the accounts below and send the screenshot via Telegram. Please share or send me your address in Telegram, and after that, you will get your orders.',
+      bank: 'Bank Account (CBE)',
+      telebirr: 'Telebirr',
+      accountName: 'Account Name',
+      sendScreenshot: 'Send Screenshot via Telegram',
+      fastDelivery: 'Fast Delivery',
+      deliveryDesc: 'Available nationwide',
+      authentic: 'Authentic',
+      authenticDesc: '100% genuine products',
+      notFound: 'Product Not Found',
+      notFoundDesc: 'The product you are looking for does not exist.',
+      backShop: 'Back to Shop',
+      deliveryAddress: 'Delivery Address',
+      quantity: 'Quantity',
+      addressRequired: 'Please type your delivery address',
+      name: 'Full Name',
+      nameRequired: 'Please type your name',
+      phone: 'Phone Number',
+      phoneRequired: 'Please type your phone number'
+    },
+    about: {
+      title: 'Our Story',
+      subtitle: 'Elevating Your Beauty Ritual',
+      p1: 'At Melake Cosmetics, we believe that beauty is an art form. Founded with a passion for excellence, our shop curates only the best products.',
+      p2: 'Every product in our collection is selected for its superior quality and results.',
+      qTitle: 'Uncompromising Quality',
+      qDesc: 'We source only the finest ingredients and formulations.',
+      cTitle: 'Customer Satisfaction',
+      cDesc: 'Your beauty journey is our priority. We provide personalized service.',
+      rTitle: 'Reliable Delivery',
+      rDesc: 'Experience seamless shopping with our fast, secure, and reliable delivery service.'
+    },
+    contact: {
+      title: 'Get in Touch',
+      info: 'Contact Information',
+      address: 'Address',
+      addressVal: 'ደብረማርቆስ ምንጣፍ ተራ ሱቅ ቁጥር 27',
+      phone: 'Phone ',
+      email: 'Email',
+      payment: 'Payment Details',
+      bank: 'Bank Account',
+      telebirr: 'Telebirr',
+      sendMessage: 'Send a Message',
+      name: 'Full Name',
+      emailAddr: 'Email Address',
+      message: 'Message',
+      sendBtn: 'Send Message',
+      success: 'Thank you!',
+      successDesc: 'Your message has been sent successfully. We will get back to you soon.'
+    }
+  },
+  am: {
+    nav: {
+      home: 'መነሻ',
+      products: 'ምርቶች',
+      about: 'ስለ እኛ',
+      contact: 'አድራሻ'
+    },
+    home: {
+      subtitle: 'እውነተኛ ምርቶችን ያግኙ',
+      title: 'ከእኔ ሱቅ',
+      desc: 'ለዕለታዊ ፍላጎትዎ ምርጥ የውበት ምርቶችን ያግኙ።',
+      shopBtn: 'ምርቶችን ይግዙ',
+      delivery: 'የመላኪያ ድጋፍ',
+      deliveryDesc: 'ፈጣን እና አስተማማኝ መላኪያ እስከ በርዎ።',
+      response: 'ፈጣን ምላሽ',
+      responseDesc: 'ለፈጣን እርዳታ በቀጥታ በቴሌግራም ይዘዙ።',
+      quality: 'የጥራት ዋስትና',
+      qualityDesc: '100% ኦሪጅናል ምርቶች። ለጥራታችን ኃላፊነት እንወስዳለን።',
+      licenseTitle: 'የስራ ፈቃዳችን',
+      licenseDesc: 'እኔ ሙሉ ፈቃድ ያለኝ እና የተመዘገብኩ ነጋዴ ነኝ። ለሁሉም የመዋቢያ ፍላጎቶችዎ ሊያምኑኝ ይችላሉ።'
+    },
+    footer: {
+      desc: 'ጥራት ያላቸው የመዋቢያ ምርቶች ለዕለታዊ ውበትዎ።',
+      contact: 'አድራሻ',
+      follow: 'ይከታተሉን',
+      rights: 'መብቱ በህግ የተጠበቀ ነው።'
+    },
+    products: {
+      title: 'የእኛ ስብስብ',
+      desc: 'የተመረጡ የመዋቢያ ምርቶቻችንን ያግኙ።',
+      all: 'ሁሉም',
+      perfume: 'ሽቶ',
+      skin: 'ቆዳ',
+      hair: 'ፀጉር',
+      cloth: 'ልብስ'
+    },
+    details: {
+      back: 'ወደ ስብስብ ተመለስ',
+      howToOrder: 'እንዴት ማዘዝ ይቻላል',
+      orderDesc: 'መግዛት ከፈለጉ ገንዘቡን ({price} ብር) ከታች ባሉት አካውንቶች ይላኩ እና ስክሪንሾቱን በቴሌግራም ይላኩ። እባክዎ አድራሻዎን በቴሌግራም ያጋሩን፣ ከዚያ በኋላ ትዕዛዝዎን ያገኛሉ።',
+      bank: 'የባንክ አካውንት (CBE)',
+      telebirr: 'ቴሌብር',
+      accountName: 'የአካውንት ስም',
+      sendScreenshot: 'ስክሪንሾት በቴሌግራም ይላኩ',
+      fastDelivery: 'ፈጣን መላኪያ',
+      deliveryDesc: 'በሁሉም ቦታ ይገኛል',
+      authentic: 'ኦሪጅናል',
+      authenticDesc: '100% እውነተኛ ምርቶች',
+      notFound: 'ምርቱ አልተገኘም',
+      notFoundDesc: 'የሚፈልጉት ምርት የለም።',
+      backShop: 'ወደ ሱቅ ተመለስ',
+      deliveryAddress: 'የመላኪያ አድራሻ',
+      quantity: 'ብዛት',
+      addressRequired: 'እባክዎ የመላኪያ አድራሻዎን ያስገቡ',
+      name: 'ሙሉ ስም',
+      nameRequired: 'እባክዎ ስምዎን ያስገቡ',
+      phone: 'ስልክ ቁጥር',
+      phoneRequired: 'እባክዎ ስልክ ቁጥርዎን ያስገቡ'
+    },
+    about: {
+      title: 'ታሪካችን',
+      subtitle: 'የውበትዎን ደረጃ ከፍ ማድረግ',
+      p1: 'በመላከ ኮስሞቲክስ፣ ውበት ጥበብ ነው ብለን እናምናለን። በጥራት ላይ ባለን ፍቅር የተመሰረተው ሱቃችን ምርጥ ምርቶችን ብቻ ያቀርባል።',
+      p2: 'በስብስባችን ውስጥ ያለው እያንዳንዱ ምርት ለከፍተኛ ጥራቱ እና ለውጤቱ የተመረጠ ነው።',
+      qTitle: 'ወደር የለሽ ጥራት',
+      qDesc: 'ምርጥ ንጥረ ነገሮችን እና አሰራሮችን ብቻ እንጠቀማለን።',
+      cTitle: 'የደንበኛ እርካታ',
+      cDesc: 'የእርስዎ የውበት ጉዞ ቅድሚያ የምንሰጠው ጉዳይ ነው።',
+      rTitle: 'አስተማማኝ መላኪያ',
+      rDesc: 'በፈጣን፣ ደህንነቱ የተጠበቀ እና አስተማማኝ የመላኪያ አገልግሎታችን እንከን የለሽ ግብይት ይለማመዱ።'
+    },
+    contact: {
+      title: 'ያግኙን',
+      info: 'የአድራሻ መረጃ',
+      address: 'አድራሻ',
+      addressVal: 'ደብረማርቆስ ምንጣፍ ተራ ሱቅ ቁጥር 27',
+      phone: 'ስልክ (ቴሌብር)',
+      email: 'ኢሜይል',
+      payment: 'የክፍያ ዝርዝሮች',
+      bank: 'የባንክ አካውንት',
+      telebirr: 'ቴሌብር',
+      sendMessage: 'መልእክት ይላኩ',
+      name: 'ሙሉ ስም',
+      emailAddr: 'የኢሜይል አድራሻ',
+      message: 'መልእክት',
+      sendBtn: 'መልእክት ይላኩ',
+      success: 'እናመሰግናለን!',
+      successDesc: 'መልእክትዎ በተሳካ ሁኔታ ተልኳል። በቅርቡ እንመልስልዎታለን።'
+    }
+  }
+};
